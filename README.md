@@ -31,7 +31,7 @@
 
 ## 3. ERD 설계
 
-<img src="https://user-images.githubusercontent.com/70243735/117144749-45830180-aded-11eb-8570-53637ef14517.png">
+<img src="https://user-images.githubusercontent.com/108513349/221595293-4db4fc74-43c3-4dd0-afb4-23b85baebdde.PNG">
 
 <br>
 
@@ -39,7 +39,6 @@
 
 ### [ 로그인기능 ]
 
-<img src="https://user-images.githubusercontent.com/70243735/117665271-9f187100-b1dd-11eb-992c-9ca70d3c7115.png" width="900px">
 
 - [X] **로그인기능** 
    <details>
