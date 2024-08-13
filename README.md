@@ -66,8 +66,7 @@
   : 20포인트로 랜덤룰렛을 사용해 포인트를 얻거나 잃을 수 있습니다.   
   
    **[ 상세 구조 ]**
-   
-   <img src = "https://github.com/gonghyungwoun/shoppingmall/issues/5#issue-2463091638" width ="800px">
+
    <img src = "https://github.com/user-attachments/assets/2c609292-5303-4599-909f-11cdc9aa8537" width ="800px">
    
   
