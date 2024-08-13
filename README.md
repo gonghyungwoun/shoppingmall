@@ -46,7 +46,7 @@
 
     **[ 상세 구조 ]**
 
-    <img src = "https://github.com/user-attachments/assets/08a4c53e-4992-4c46-9326-e6bec35c0d2a.PNG" width ="800px">
+    <img src = "https://github.com/user-attachments/assets/08a4c53e-4992-4c46-9326-e6bec35c0d2a" width ="800px">
 
    </details>
   
