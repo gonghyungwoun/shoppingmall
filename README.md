@@ -67,7 +67,8 @@
   
    **[ 상세 구조 ]**
    
-   <img src = "https://user-images.githubusercontent.com/108513349/221596985-cf3691f4-3eca-443f-82ed-9b39bb16303d.PNG" width ="800px">
+   <img src = "https://github.com/gonghyungwoun/shoppingmall/issues/5#issue-2463091638" width ="800px">
+   <img src = "https://github.com/user-attachments/assets/2c609292-5303-4599-909f-11cdc9aa8537" width ="800px">
    
   
   </details>
